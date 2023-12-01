@@ -4,18 +4,15 @@
 
 ## Code
 
-This report provides a detailed analysis of a stress management project using the Empatica E4 bracelet. The report covers the data discovery, analysis, and sharing process, which were critical to generating meaningful insights.
+This report provides a detailed analysis of a stress management project using the Empatica E4 wristband. The report covers the data discovery, analysis, and sharing process, which were critical to generating meaningful insights.
 
 ### Contents
 
 The report is divided into the following sections:
 
-1. Introduction
-2. Methodology
-3. Data Collection
-4. Data Analysis
-5. Results
-6. Conclusion
+1. Background
+2. Methods and results
+3. Conclusion
 
 ### Introduction
 
